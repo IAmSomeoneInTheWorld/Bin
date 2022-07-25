@@ -1,0 +1,17 @@
+{
+  "name": "bin",
+  "version": "1.0.0",
+  "description": "Simple node library to convert string to binary and binary to string",
+  "main": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary-to-string",
+    "string-to-binary",
+    "bin",
+    "binary"
+  ],
+  "author": "Madhav Dubey",
+  "license": "MIT"
+}
