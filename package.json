@@ -1,6 +1,6 @@
 {
-  "name": "bin",
-  "version": "1.0.0",
+  "name": "@keepcoding/bin",
+  "version": "1.0.2",
   "description": "Simple node library to convert string to binary and binary to string",
   "main": "bin.js",
   "scripts": {

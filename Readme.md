@@ -2,17 +2,12 @@
 
 The Bin is a simple node js library to convert string to binary and binary to string.
 
-## Install
-```javascript
-npm i bin
-```
-
 ## How to use
 
 import `bin`
 
 ```javascript
-const bin = require("bin");
+const bin = require("npm i @keepcoding/bin");
 ```
 
 Convert string into **`Binary`**
