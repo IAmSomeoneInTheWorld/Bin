@@ -7,7 +7,7 @@ The Bin is a simple node js library to convert string to binary and binary to st
 import `bin`
 
 ```javascript
-const bin = require("npm i @keepcoding/bin");
+const bin = require("@keepcoding/bin");
 ```
 
 Convert string into **`Binary`**
