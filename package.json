@@ -13,5 +13,9 @@
     "binary"
   ],
   "author": "Madhav Dubey",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmSomeoneInTheWorld/otp.git"
+  }
 }
