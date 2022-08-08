@@ -17,5 +17,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/IAmSomeoneInTheWorld/Bin"
+  },
+  "dependencies": {
+    "go-loop": "^1.0.0"
   }
 }
